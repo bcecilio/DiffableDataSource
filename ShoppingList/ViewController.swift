@@ -63,7 +63,7 @@ class ViewController: UIViewController {
     @objc private func presentAddVC(){
         // 1. create an addVC swift file
         // 2. add a view controller object in storyboard
-        // 3. add 2 text fields (item name + item price)
+        /// 3. add 2 text fields (item name + item price)
         // 4. add a pickerView to manage the categories
         // 5. create submit button
         // 6. user is able to add a new item to a given category

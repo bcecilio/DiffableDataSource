@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B78F49D724C086360061D9D7 /* SubmitController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78F49D624C086360061D9D7 /* SubmitController.swift */; };
 		B7D2007C24BF470000F42029 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D2007B24BF470000F42029 /* AppDelegate.swift */; };
 		B7D2007E24BF470000F42029 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D2007D24BF470000F42029 /* SceneDelegate.swift */; };
 		B7D2008024BF470000F42029 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D2007F24BF470000F42029 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B78F49D624C086360061D9D7 /* SubmitController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitController.swift; sourceTree = "<group>"; };
 		B7D2007824BF470000F42029 /* ShoppingList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoppingList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7D2007B24BF470000F42029 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7D2007D24BF470000F42029 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				B7D2007B24BF470000F42029 /* AppDelegate.swift */,
 				B7D2007D24BF470000F42029 /* SceneDelegate.swift */,
 				B7D2007F24BF470000F42029 /* ViewController.swift */,
+				B78F49D624C086360061D9D7 /* SubmitController.swift */,
 				B7D2008F24BF476600F42029 /* Category.swift */,
 				B7D2009124BF488200F42029 /* Item.swift */,
 				B7D2009324BF4AEF00F42029 /* DataSource.swift */,
@@ -151,6 +154,7 @@
 				B7D2009424BF4AEF00F42029 /* DataSource.swift in Sources */,
 				B7D2009024BF476600F42029 /* Category.swift in Sources */,
 				B7D2008024BF470000F42029 /* ViewController.swift in Sources */,
+				B78F49D724C086360061D9D7 /* SubmitController.swift in Sources */,
 				B7D2007C24BF470000F42029 /* AppDelegate.swift in Sources */,
 				B7D2007E24BF470000F42029 /* SceneDelegate.swift in Sources */,
 			);
